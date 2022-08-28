@@ -1,1 +1,1 @@
-Various files for Tensorflow Udacity lectures I store here for Google Colab. Completely open source, use if you wish. 
+Various files for Tensorflow Udacity lectures I store here for use in Google Colab. Completely open source, use if you wish. 

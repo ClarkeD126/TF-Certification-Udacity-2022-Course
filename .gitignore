@@ -9,3 +9,8 @@ Dogs v Cats/~/tensorflow_datasets/cats_vs_dogs/4.0.0/cats_vs_dogs-train.tfrecord
 Dogs v Cats/~/tensorflow_datasets/cats_vs_dogs/4.0.0/dataset_info.json
 Dogs v Cats/~/tensorflow_datasets/cats_vs_dogs/4.0.0/features.json
 Dogs v Cats/~/tensorflow_datasets/cats_vs_dogs/4.0.0/label.labels.txt
+~/tensorflow_datasets/tf_flowers/3.0.1/dataset_info.json
+~/tensorflow_datasets/tf_flowers/3.0.1/features.json
+~/tensorflow_datasets/tf_flowers/3.0.1/label.labels.txt
+~/tensorflow_datasets/tf_flowers/3.0.1/tf_flowers-train.tfrecord-00000-of-00002
+~/tensorflow_datasets/tf_flowers/3.0.1/tf_flowers-train.tfrecord-00001-of-00002

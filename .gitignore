@@ -14,3 +14,7 @@ Dogs v Cats/~/tensorflow_datasets/cats_vs_dogs/4.0.0/label.labels.txt
 ~/tensorflow_datasets/tf_flowers/3.0.1/label.labels.txt
 ~/tensorflow_datasets/tf_flowers/3.0.1/tf_flowers-train.tfrecord-00000-of-00002
 ~/tensorflow_datasets/tf_flowers/3.0.1/tf_flowers-train.tfrecord-00001-of-00002
+MNIST/Handwritten/~/tensorflow_datasets/mnist/3.0.1/dataset_info.json
+MNIST/Handwritten/~/tensorflow_datasets/mnist/3.0.1/features.json
+MNIST/Handwritten/~/tensorflow_datasets/mnist/3.0.1/mnist-test.tfrecord-00000-of-00001
+MNIST/Handwritten/~/tensorflow_datasets/mnist/3.0.1/mnist-train.tfrecord-00000-of-00001
